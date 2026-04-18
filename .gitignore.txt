@@ -1,0 +1,13 @@
+
+online_courses_frontend/node_modules/
+online_courses_frontend/build/
+
+online_courses/target/
+*.log
+
+# Env
+.env
+
+.idea/
+.vscode/
+*.iml
